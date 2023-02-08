@@ -1,0 +1,24 @@
+.navbar {
+    align-items: center;
+    color: white;
+    display: flex;
+   background-color: #01193F;
+   justify-content: space-between;
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar.top-nav-bar {
+    flex-flow: row nowrap;
+    padding: 1.25rem 2rem 0;
+}
+
+.button div {
+    width: 18px;
+    height: 2px;
+    margin: 6px 0;
+
+    background-color: white;
+}
